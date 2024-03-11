@@ -1,0 +1,20 @@
+h2 {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: #1A1A1A;
+}
+
+.post {
+    margin: 0 40px;
+}
