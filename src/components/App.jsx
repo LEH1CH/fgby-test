@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
-import PostList from './components/PostList';
-import Post from './components/Post';
+import PostList from './PostList';
+import Post from './Post';
 import styles from './App.module.css';
 
 const App = () => {
